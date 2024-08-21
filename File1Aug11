@@ -1,1 +1,3 @@
-select * from tablename2
+
+select * from tablename1
+
